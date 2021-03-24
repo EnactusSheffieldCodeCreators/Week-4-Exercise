@@ -1,10 +1,10 @@
 # Week-4-Exercise
 
-This week we're building the game **tic tac toe** using the object oriented programming from the lecture.
+This week we're building the game **tic tac toe** using object oriented programming shown in the lecture.
 
-## Tic Tac Toe
+## Naughts and Crosses
 
-Also known as **Naughts and Crosses** this game involves two players placing a naught or a cross inside a 3x3 grid with the goal being to create a row of 3, vertically, diagonally or horizontally. You can play the game on [this website](https://playtictactoe.org/) or read the [Wikipedia entry](https://en.wikipedia.org/wiki/Tic-tac-toe) about the game.
+Also known as **tic tac toe** this game involves two players placing a naught or a cross inside a 3x3 grid with the goal being to create a row of 3, vertically, diagonally or horizontally. You can play the game on [this website](https://playtictactoe.org/) or read the [Wikipedia entry](https://en.wikipedia.org/wiki/Tic-tac-toe) about the game.
 
 ## Make a GitHub Repository
 
